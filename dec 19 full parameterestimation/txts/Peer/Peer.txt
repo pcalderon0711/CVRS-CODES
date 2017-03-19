@@ -1,0 +1,66 @@
+       code :          Peer
+
+parameter set to be identified,:
+A_pesk_rest     177.6820
+A_pesk_exer     270.0000
+ K_CO2       0.0057
+ k_CO2       0.2240
+R_p_rest       1.5446
+R_p_exer       0.3000
+
+full set of parameters:
+        c_as      0.01016
+        c_vs      0.65000
+        c_ap      0.03608
+        c_vp      0.14080
+         c_l      0.02305
+         c_r      0.04413
+         R_l      0.26710
+         R_r      0.04150
+       kappa      0.05164
+     alpha_l     30.55870
+     alpha_r     28.67850
+      beta_l     25.06520
+      beta_r      1.41320
+     gamma_l     -1.67440
+     gamma_r     -1.86070
+        M_O2      0.35000
+       M_CO2      0.28000
+      rho_O2      0.01100
+     rho_CO2      0.00900
+       V_tot      5.05820
+    R_p_rest      2.77156
+    R_p_exer     -0.50521
+ A_pesk_rest    254.06525
+ A_pesk_exer     77.67820
+       P_IO2    150.00000
+      P_ICO2      0.00000
+       V_AO2      2.50000
+      V_ACO2      3.20000
+       V_TO2      6.00000
+      V_TCO2     15.00000
+       K_CO2     61.09152
+       k_CO2     46.08747
+        K_a1      0.20000
+        K_a2      0.05000
+        q_as      1.00000
+      q_aco2      1.00000
+          w1      0.01000
+          w2      0.01000
+       alpha     20.00000
+        beta      5.00000
+
+discretization N:  6.00
+
+simulation time:  [0.00 15.00]
+
+transition time:  5.00
+
+       workload:  75.00
+
+ resnorm:  2360.11351615
+
+exitflag:  3
+
+# of iterations:  69
+
